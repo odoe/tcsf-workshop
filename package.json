@@ -1,0 +1,9 @@
+{
+  "name": "tcsf-esri-workshop",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "highlightjs": "^9.10.0",
+    "reveal.js": "^3.5.0"
+  }
+}
