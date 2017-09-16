@@ -6,7 +6,6 @@
 
 - Free Developer Account
 - The ArcGIS Platform
-- Free Developer Account
 - Available SDKs
 
 ---
